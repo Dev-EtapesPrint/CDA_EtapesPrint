@@ -1,4 +1,4 @@
-# Discovery holiday
+# ZenHoliday
 
 ## 1. Avoir l'idée du projet
 
