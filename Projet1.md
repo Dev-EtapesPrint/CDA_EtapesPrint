@@ -4,6 +4,100 @@
 
 -> Faire un sorte de Airbnb pour les vancance mais plus penché sur le côté humain avec la découverte de la région et des activités à faire.
 
+## 2. Documentation
+
+### 2.1 Description du projet
+
+**Zen-Holiday : Voyagez autrement, vivez localement.**
+
+Bienvenue sur Zen-Holiday, la plateforme où vos vacances prennent un tournant authentique et humain. Nous repensons l'expérience traditionnelle des séjours pour vous offrir une immersion complète dans le cœur vibrant des cultures locales.
+
+**Ce qui nous distingue :**
+
+- **Hébergement chez l'habitant** : Oubliez les hôtels impersonnels. Avec Zen-Holiday, séjournez chez des hôtes locaux chaleureux prêts à vous ouvrir les portes de leur maison. Chaque résidence a sa propre histoire, tout comme ses habitants. Ici, chaque réveil est le début d'une nouvelle aventure.
+
+- **Découverte de la région** : Profitez d'une visite guidée par votre hôte ou un résident passionné. Découvrez les recoins cachés, les histoires non racontées et les merveilles méconnues de la région. Chaque destination est une mine d'or d'expériences, et qui mieux qu'un local pour vous montrer le chemin?
+
+- **Cuisine et repas locaux** : Éveillez vos papilles en dégustant des mets préparés avec amour dans les restaurants du coin. De la ferme à la table, chaque bouchée est un voyage culinaire qui raconte une histoire.
+
+- **Visites authentiques** : Grâce à Zen-Holiday, évitez les attractions touristiques bondées. Nous vous proposons des expériences uniques, des rencontres enrichissantes et des souvenirs impérissables.
+
+### 2.2 Fonctionnalité
+
+**Fonctionnalités du site Zen-Holiday :**
+
+1. **Recherche intuitive** :
+
+   - Filtrez par destination, dates, type de logement, et expériences souhaitées.
+   - Option de recherche basée sur des intérêts spécifiques (par exemple, gastronomie, histoire, nature).
+
+2. **Profils des hôtes** :
+
+   - Photos, descriptions, et commentaires des précédents voyageurs.
+   - Présentation vidéo pour une touche plus personnelle.
+   - Validation et vérification des hôtes pour assurer la sécurité.
+
+3. **Réservation en ligne** :
+
+   - Système de réservation sécurisé avec options d'annulation flexibles.
+   - Calendrier de disponibilité en temps réel.
+
+4. **Expériences locales** :
+
+   - Réservez des visites guidées, ateliers, ou autres activités uniques.
+   - Possibilité pour les hôtes de proposer des expériences exclusives.
+
+5. **Espace communautaire** :
+
+   - Forums pour échanger des conseils, poser des questions et partager des expériences.
+   - Témoignages et histoires de voyage.
+
+6. **Système de parrainage** :
+
+   - Incitations pour les utilisateurs qui recommandent Zen-Holiday à des amis.
+
+7. **Planification d'itinéraire** :
+
+   - Créez et personnalisez votre itinéraire de voyage.
+   - Option d'ajout d'expériences ou de recommandations d'hôtes.
+
+8. **Service client** :
+
+   - Chat en direct pour assistance immédiate.
+   - Centre d'aide avec FAQ et guides.
+
+9. **Évaluations et commentaires** :
+
+   - Laissez un avis après votre séjour.
+   - Consultez les évaluations pour choisir la meilleure expérience.
+
+10. **Gestion des réservations** :
+
+    - Historique des réservations.
+    - Options de modification ou d'annulation.
+
+11. **Alertes et notifications** :
+
+    - Recevez des notifications pour des offres spéciales ou des événements dans votre destination.
+
+12. **Programme de fidélité** :
+
+    - Accumulez des points à chaque séjour et échangez-les pour des réductions ou des avantages.
+
+13. **Blog et articles** :
+
+    - Conseils de voyage, histoires inspirantes, et mise en avant des destinations populaires.
+
+14. **Application mobile** :
+
+    - Accédez à Zen-Holiday depuis votre téléphone pour une expérience optimisée.
+
+15. **Cartes interactives** :
+
+    - Localisez les hébergements et expériences sur une carte pour faciliter la planification.
+
+### 2.3 Spécifications
+
 ---
 
 ## TODO
