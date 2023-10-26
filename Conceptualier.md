@@ -1,5 +1,9 @@
 # Etapes pour lancer le projet
 
+Vidéos suivies :
+
+- [Comment développer une application web en 10 étapes](https://youtu.be/q0L2XYi51dk)
+
 ## 1. Avoir l'idée du projet
 
 - Projet de niche
@@ -18,6 +22,20 @@
 
 > A quoi va ressembler l'écran, la page d'accueil, la page de connexion, etc.
 
+Les wireframes sont des schémas qui représentent les différentes pages de l'application. Ils permettent de visualiser l'interface et de faire des modifications avant de commencer le développement.
+
+Pour faire les wireframes, utiliser un logiciel de maquettage comme :
+
+- [Figma](https://www.figma.com/)
+- [Marvel](https://marvelapp.com/)
+- [Framer](https://www.framer.com/)
+- [Origami Studio](https://origami.design/)
+- [Webflow](https://webflow.com/)
+- [Moqups](https://moqups.com/)
+- [MockFlow](https://www.mockflow.com/)
+- [Justinmind](https://www.justinmind.com/)
+- [Mockplus](https://www.mockplus.com/)
+
 ### 2.2. Faire une liste à puces
 
 - "User story" -> "En tant que ... je veux ... pour ... afin de ..."
@@ -27,13 +45,41 @@
 - Décrire les entités
 - Décrire les relations entre les entités
 
+### 2.4. Faire le design
+
+Utiliser en priorité des templates :
+
+- Human Interface Guidelines (iOS)
+- Material Design (Android)
+
+### 2.5. Faire une landing page
+
+Une landing page est une page web qui présente le projet. Elle est composée de :
+
+- Description rapide du projet
+- A qui s'adresse le projet
+- Pourquoi le projet est utile
+- Appel à l'action (bouton pour télécharger l'application ou mail pour s'inscrire à la newsletter)
+
+Comment la faire :
+
+- Phrase d'accroche
+- Bref paragraphe d'introduction ou une vidéo
+- Screenshots de l'application en mokup
+- Appel à l'action
+- Liste des fonctionnalités
+- Histoire de l'application / créateur
+
 ## 3. Faire le Front-End
 
 ### 3.1. Choisir un framework
 
-- React
-- Vue
-- Angular
+Utiliser un framework comme :
+
+- [React](https://reactjs.org/)
+- [Vue](https://vuejs.org/)
+- [Angular](https://angular.io/)
+- [Svelte](https://svelte.dev/)
 
 ## 4. Faire le Back-End
 
@@ -41,6 +87,15 @@
 - Où on stocke les données ?
 - Comment on les stocke ?
 - Si y a des fichier : où on les stocke ?
+
+### 4.1. Choisir un langage
+
+Utiliser un framework comme :
+
+- [Express](https://expressjs.com/)
+- [Koa](https://koajs.com/)
+- [Nest](https://nestjs.com/)
+- [Fastify](https://www.fastify.io/)
 
 ## 5. L'authentification
 
@@ -76,4 +131,34 @@ Avoir 2 environnements :
 
 ## 10. Le déploiement
 
-## 11. Trouver et corriger les bugs
+## 11. Faire la promotion du projet
+
+### 11.1. Trouver le public cible
+
+Il faut se dire :
+
+- Quels problèmes résout l'application ?
+- Qui est le public cible ?
+- Comment atteindre le public cible ?
+
+### 12. Les feedbacks
+
+Demanders des avis aux utilisateurs et les intégrer dans l'application :
+
+- Pop-up de feedback sur l'application (mais qui ne doit pas être trop intrusif)
+- Mail aux utilisateurs de la newsletter pour leur demander leur avis en les remmerciant de leur intérêt pour l'application
+
+## 13. Gestion du projet et maintenance
+
+### 13.1. Gestion du projet
+
+- Gestion du budget
+- Gestion du calendrier
+- Gestion des ressources
+- Gestion des risques
+
+### 13.2. Maintenance de l'application
+
+- Correction des bugs
+- Ajout de nouvelles fonctionnalités
+- Amélioration des performances
