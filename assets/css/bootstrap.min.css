@@ -155,7 +155,8 @@ html input[type=button],
 input[type=reset],
 input[type=submit] {
     -webkit-appearance: button;
-    cursor: pointer
+    appearance: button;
+    cursor: pointer;
 }
 
 button[disabled],
@@ -182,7 +183,8 @@ input[type=search] {
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
     box-sizing: content-box;
-    -webkit-appearance: textfield
+    -webkit-appearance: textfield;
+    appearance: textfield;
 }
 
 input[type=search]::-webkit-search-cancel-button,
@@ -3366,8 +3368,10 @@ textarea.form-control {
 }
 
 input[type=search] {
-    -webkit-appearance: none
+    -webkit-appearance: none;
+    appearance: none;
 }
+
 
 .form-group {
     margin-bottom: 15px
@@ -3858,9 +3862,6 @@ fieldset[disabled] .btn {
     box-shadow: none;
     opacity: .65
 }
-
-a.btn.disabled,
-fieldset[disabled] a.btn {}
 
 .btn-default {
     color: #333;
@@ -7171,11 +7172,13 @@ button.list-group-item-danger.active:hover {
 
 button.close {
     -webkit-appearance: none;
+    appearance: none;
     padding: 0;
     cursor: pointer;
     background: 0 0;
     border: 0
 }
+
 
 .modal-open {
     overflow: hidden
