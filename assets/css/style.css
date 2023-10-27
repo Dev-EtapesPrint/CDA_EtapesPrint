@@ -274,6 +274,12 @@ nav.navbar.bootsnav .navbar-toggle i {
     height: 100%;
 }
 
+.header-text {
+    border: 5px outset #32C8BF;
+    border-radius: 40px 0px 40px 0px;
+    background-color: #073b4099;
+}
+
 .header-text h2 {
     font-size: 60px;
     font-weight: 600;
@@ -281,9 +287,7 @@ nav.navbar.bootsnav .navbar-toggle i {
     margin-bottom: 30px;
     letter-spacing: 1px;
     line-height: 1.2;
-    -webkit-box-shadow: 3px 3px 10px 3px #000000;
-    box-shadow: 3px 3px 10px 3px #000000;
-    background: rgba(7, 59, 64, 0.5)
+    /* background: rgba(7, 59, 64, 0.5) */
 }
 
 .header-text h2 span {
