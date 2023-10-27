@@ -765,16 +765,13 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 }
 
 .images-title {
-    margin-top: 1%;
-    margin-bottom: 5%;
-    padding: 2%;
-    padding-right: 5%;
-    padding-left: 5%;
-    text-align: center;
-    border-radius: 43px;
-    background: #e0e0e0;
-    box-shadow: inset 8px 8px 16px #656565,
-        inset -8px -8px 16px #ffffff;
+    text-transform: capitalize;
+    color: #636a82;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    padding: 0 20px;
+    border-bottom: 1px solid #b2c1ce;
 }
 
 .block-images {
