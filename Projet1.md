@@ -96,44 +96,13 @@ Bienvenue sur Zen-Holiday, la plateforme où vos vacances prennent un tournant a
 
     - Localisez les hébergements et expériences sur une carte pour faciliter la planification.
 
-### 2.3 Spécifications
+### 2.3. Faire une liste à puces
+
+- "User story" -> "En tant que ... je veux ... pour ... afin de ..."
 
 ---
 
 ## TODO
-
-## 2. Faire une documentation
-
-- Décrire le projet
-- Décrire les fonctionnalités
-- Décrire les spécifications
-
-### 2.1. Faire des maquettes
-
-> A quoi va ressembler l'écran, la page d'accueil, la page de connexion, etc.
-
-Les wireframes sont des schémas qui représentent les différentes pages de l'application. Ils permettent de visualiser l'interface et de faire des modifications avant de commencer le développement.
-
-Pour faire les wireframes, utiliser un logiciel de maquettage comme :
-
-- [Figma](https://www.figma.com/)
-- [Marvel](https://marvelapp.com/)
-- [Framer](https://www.framer.com/)
-- [Origami Studio](https://origami.design/)
-- [Webflow](https://webflow.com/)
-- [Moqups](https://moqups.com/)
-- [MockFlow](https://www.mockflow.com/)
-- [Justinmind](https://www.justinmind.com/)
-- [Mockplus](https://www.mockplus.com/)
-
-### 2.2. Faire une liste à puces
-
-- "User story" -> "En tant que ... je veux ... pour ... afin de ..."
-
-### 2.3. Faire dictionnaire de données
-
-- Décrire les entités
-- Décrire les relations entre les entités
 
 ### 2.4. Faire le design
 
