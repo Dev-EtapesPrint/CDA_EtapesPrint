@@ -158,7 +158,7 @@ nav.navbar.bootsnav {
 .navbar-header a.navbar-brand:hover,
 .navbar-header a.navbar-brand:focus {
     display: inline-block;
-    color: #d92cf9;
+    color: #073B40;
     font-size: 20px;
     font-weight: 600;
     padding: 33px 0px 57px;
@@ -186,7 +186,7 @@ nav.navbar.bootsnav ul.nav>li>a {
 nav.navbar.bootsnav ul.nav>li>a:hover,
 nav.navbar.bootsnav ul.nav>li>a:focus,
 nav.navbar.bootsnav ul.nav>li.active>a {
-    color: #d92cf9;
+    color: #073B40;
 }
 
 nav.navbar.bootsnav ul.nav>li.dropdown>a.dropdown-toggle:after {
@@ -205,7 +205,7 @@ nav.navbar.bootsnav ul.nav>li.dropdown span {
 .sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav>li>a:hover,
 .sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav>li>a:focus,
 .sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav>li.active>a {
-    color: #d92cf9;
+    color: #073B40;
 }
 
 /*.nav li*/
@@ -227,7 +227,7 @@ nav.navbar.bootsnav ul.nav>li.dropdown span {
 }
 
 .menu-ui-design::-webkit-scrollbar-thumb {
-    background-color: #d92cf9;
+    background-color: #073B40;
 }
 
 /*.menu-ui-design*/
@@ -238,13 +238,13 @@ nav.navbar.bootsnav ul.nav>li.dropdown span {
 nav.navbar.bootsnav .navbar-toggle {
     position: relative;
     background-color: transparent;
-    border: 1px solid #d92cf9;
+    border: 1px solid #073B40;
     padding: 10px;
     top: 0;
 }
 
 nav.navbar.bootsnav .navbar-toggle i {
-    color: #d92cf9;
+    color: #073B40;
 }
 
 /*.navbar-toggle */
@@ -275,50 +275,29 @@ nav.navbar.bootsnav .navbar-toggle i {
     height: 100%;
 }
 
-/*.header-text-area*/
 .header-text h2 {
+    font-size: 60px;
+    font-weight: 600;
     color: #fff;
-    font-size: 54px;
-    font-weight: 700;
-    text-transform: uppercase;
-    line-height: 1.5;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+    line-height: 1.2;
+    -webkit-box-shadow: 3px 3px 10px 3px #000000;
+    box-shadow: 3px 3px 10px 3px #000000;
+    background: rgba(7, 59, 64, 0.5)
 }
 
 .header-text h2 span {
-    color: #d92cf9;
+    color: #32C8BF;
 }
 
 .header-text p {
+    font-size: 18px;
     color: #fff;
-    font-size: 20px;
-    font-weight: 300;
-    text-transform: uppercase;
-    margin: 30px 0 60px;
-    letter-spacing: 1px;
+    margin-bottom: 30px;
+    line-height: 1.8;
 }
 
-.header-text a {
-    width: 200px;
-    height: 60px;
-    line-height: 60px;
-    border-radius: 3px;
-    text-transform: capitalize;
-    color: #fff;
-    background: #b636ff;
-    border: 1px solid #b636ff;
-    box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
-    -webkit-transition: 0.3s linear;
-    -moz-transition: 0.3s linear;
-    -ms-transition: 0.3s linear;
-    -o-transition: 0.3s linear;
-    transition: 0.3s linear;
-}
-
-.header-text a:hover {
-    box-shadow: 0 5px 20px rgba(0, 0, 0, .4);
-    background: #9f00ff;
-    border: 1px solid #9f00ff;
-}
 
 /*.header-text-area*/
 
@@ -388,19 +367,8 @@ nav.navbar.bootsnav .navbar-toggle i {
     box-shadow: 0 5px 20px rgba(14, 25, 80, .30);
 }
 
-/* .single-about-img:before {
-    position: absolute;
-    content: " ";
-    top: 0;
-    left: 0;
-    width: 109%;
-    height: 100%;
-    background: rgba(31, 44, 108, .3);
-} */
-
 .single-about-img img {
-    max-width: 500px;
-    height: 500px;
+    max-width: 400px;
 }
 
 .about-list-icon {
@@ -491,7 +459,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 
 .timeline-horizontal-border i {
     font-size: 10px;
-    color: #d92cf9;
+    color: #073B40;
     margin-right: 5px;
 }
 
@@ -720,11 +688,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {
     content: " ";
     width: 100%;
     height: 100%;
-    background: #d92cf9;
-    background: -moz-linear-gradient(left, #d92cf9 0%, #b636ff 100%);
-    background: -webkit-linear-gradient(left, #d92cf9 0%, #b636ff 100%);
-    background: linear-gradient(to right, #d92cf9 0%, #b636ff 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d92cf9', endColorstr='#b636ff', GradientType=1);
+    background: #073B40;
+    background: -moz-linear-gradient(left, #073B40 0%, #b636ff 100%);
+    background: -webkit-linear-gradient(left, #073B40 0%, #b636ff 100%);
+    background: linear-gradient(to right, #073B40 0%, #b636ff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#073B40', endColorstr='#b636ff', GradientType=1);
     -webkit-transform: scale(0);
     -moz-transform: scale(0);
     -ms-transform: scale(0);
