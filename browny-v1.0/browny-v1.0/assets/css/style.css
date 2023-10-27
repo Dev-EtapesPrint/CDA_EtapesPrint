@@ -325,6 +325,21 @@ nav.navbar.bootsnav .navbar-toggle i {
 /*-------------------------------------
         4.  About
 --------------------------------------*/
+.block-objectif {
+    display: flex;
+}
+
+.block-objectif-1 {
+    display: flex;
+}
+
+.block-objectif-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
 .about {
     padding: 50px 0 100px;
 }
@@ -373,7 +388,7 @@ nav.navbar.bootsnav .navbar-toggle i {
     box-shadow: 0 5px 20px rgba(14, 25, 80, .30);
 }
 
-.single-about-img:before {
+/* .single-about-img:before {
     position: absolute;
     content: " ";
     top: 0;
@@ -381,11 +396,11 @@ nav.navbar.bootsnav .navbar-toggle i {
     width: 109%;
     height: 100%;
     background: rgba(31, 44, 108, .3);
-}
+} */
 
 .single-about-img img {
     max-width: 500px;
-    height: 468px;
+    height: 500px;
 }
 
 .about-list-icon {
