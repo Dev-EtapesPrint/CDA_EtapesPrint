@@ -10,7 +10,7 @@ Police d'écriture : Montserrat Alternates
 
 [Coolors](https://coolors.co/073b40-32c8bf-89cbc5-acdb92-87cf5c)
 
-### Palette de couleurs\*\*
+### Palette de couleurs
 
 - **Couleur principale :** Midnight green (#073B40)
 - **Couleur d'accent :** Robin egg blue (#32C8BF)
